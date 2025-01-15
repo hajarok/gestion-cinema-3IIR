@@ -45,6 +45,7 @@
             font-weight: bold; /* Mise en gras du titre */
             margin: 0; /* Suppression des marges */
             color: #ff0000; /* Couleur du texte en rouge */
+            /* Couleur en rouge */
         }
 
         /* Style de la barre de navigation */
